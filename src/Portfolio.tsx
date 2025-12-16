@@ -1,5 +1,5 @@
-import { Hero } from './components/Hero';
-import { Stack } from './components/Stack';
+import { Hero } from './components/sections/Hero';
+import { Stack } from './components/sections/Stack';
 
 export const Portfolio = () => {
   return (
