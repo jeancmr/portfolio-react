@@ -10,10 +10,16 @@ export const Hero = () => {
           </p>
 
           <div className="flex gap-4 items-center">
-            <button className="text-white font-bold text-lg px-5 py-3 bg-sky-500 border border-gray-500 rounded-md cursor-pointer">
+            {/* <button className="text-white font-bold text-lg px-5 py-3 bg-sky-500 border border-gray-500 rounded-md cursor-pointer">
               View My Work
-            </button>
-            <button className="text-white font-bold text-lg px-4 py-2 bg-neutral-900 border border-gray-500 rounded-md cursor-pointer">
+            </button> */}
+            <a
+              href="#featured-projects"
+              className="text-white font-bold text-lg px-5 py-3 bg-sky-500 border hover:bg-sky-600 border-gray-500 rounded-md cursor-pointer"
+            >
+              View My Work
+            </a>
+            <button className="text-white font-bold text-lg px-4 py-2 bg-neutral-900 hover:bg-neutral-800 border border-gray-500 rounded-md cursor-pointer">
               Contact Me
             </button>
           </div>

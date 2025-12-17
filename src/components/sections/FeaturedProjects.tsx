@@ -2,7 +2,7 @@ import { featuredProjects } from '../../data/featuredProjects';
 
 export const FeaturedProjects = () => {
   return (
-    <section className="bg-neutral-800 border-b border-gray-400">
+    <section className="bg-neutral-800 border-b border-gray-400" id="featured-projects">
       <article className="px-20 py-16 max-w-7xl mx-auto">
         <h2 className="text-white font-bold text-2xl mb-2.5">Featured Projects</h2>
         <p className="text-gray-400">Some of my recent work</p>
