@@ -1,6 +1,6 @@
 export const Hero = () => {
   return (
-    <section className=" bg-neutral-900">
+    <section className=" bg-neutral-900 border-b border-gray-400">
       <header className="grid grid-cols-2  justify-center items-center px-20 py-16 max-w-7xl mx-auto">
         <div className="flex flex-col gap-6 justify-center">
           <h1 className="text-8xl text-white font-bold">System Engineer Fullstack developer</h1>
@@ -26,6 +26,7 @@ export const Hero = () => {
           />
         </div>
       </header>
+      {/* <div className="w-full h-px bg-gray-400" /> */}
     </section>
   );
 };
