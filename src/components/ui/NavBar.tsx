@@ -2,7 +2,7 @@ import { iconsPath } from '../../data/iconsPath';
 
 export const NavBar = () => {
   return (
-    <nav className="bg-neutral-900 border-b border-gray-800">
+    <nav className="bg-neutral-900 border-b border-gray-800 fixed w-full z-10">
       <header className="px-20 max-w-7xl mx-auto flex justify-between p-3">
         <div className="flex items-center gap-3">
           <svg
