@@ -3,7 +3,7 @@ import { Form } from '../ui/Form';
 
 export const Contact = () => {
   return (
-    <section className="bg-neutral-900 border-b border-gray-400">
+    <section className="bg-neutral-900 border-b border-gray-400" id="contact">
       <div className="max-w-7xl grid grid-cols-2 mx-auto px-20 py-16 gap-8">
         <article>
           <h2 className="text-white font-bold text-2xl mb-5">Get in Touch</h2>

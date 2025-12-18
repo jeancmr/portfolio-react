@@ -16,13 +16,13 @@ export const About = () => {
               <h2 className="text-white font-bold text-2xl">About me</h2>
             </header>
             <p className="text-white">
-              I’m a Full Stack Developer with around two years of experience building and
-              maintaining web applications. I’ve worked with React by using JavaScript and
-              TypeScript to create scalable and user-friendly interfaces. I have experience with
-              Node.js by working with frameworks such as Express and NestJS. I’ve also worked with
-              both SQL databases (PostgreSQL, SQL Server) and NoSQL databases like MongoDB. I enjoy
-              writing clean, maintainable code and collaborating with teams to deliver high-quality
-              solutions.
+              I’m Jean, a system engineer and full stack developer with around two years of
+              experience building and maintaining web applications. I’ve worked with React by using
+              JavaScript and TypeScript to create scalable and user-friendly interfaces. I have
+              experience with Node.js by working with frameworks such as Express and NestJS. I’ve
+              also worked with both SQL databases (PostgreSQL, SQL Server) and NoSQL databases like
+              MongoDB. I enjoy writing clean, maintainable code and collaborating with teams to
+              deliver high-quality solutions.
             </p>
           </div>
         </article>
