@@ -10,9 +10,6 @@ export const Hero = () => {
           </p>
 
           <div className="flex gap-4 items-center">
-            {/* <button className="text-white font-bold text-lg px-5 py-3 bg-sky-500 border border-gray-500 rounded-md cursor-pointer">
-              View My Work
-            </button> */}
             <a
               href="#featured-projects"
               className="text-white font-bold text-lg px-5 py-3 bg-sky-500 border hover:bg-sky-600 border-gray-500 rounded-md cursor-pointer"
@@ -32,7 +29,6 @@ export const Hero = () => {
           />
         </div>
       </header>
-      {/* <div className="w-full h-px bg-gray-400" /> */}
     </section>
   );
 };
