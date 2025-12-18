@@ -1,7 +1,7 @@
 export const About = () => {
   return (
     <>
-      <section className="bg-neutral-900 border-b border-gray-400">
+      <section className="bg-neutral-900 border-b border-gray-400" id="about">
         <article className="px-20 py-16 max-w-7xl mx-auto">
           <div className="bg-neutral-700 p-8 rounded-md flex flex-col gap-4">
             <header className="flex items-center gap-3">
