@@ -16,9 +16,7 @@ export const Hero = () => {
             >
               View My Work
             </a>
-            {/* <button className="text-white font-bold text-lg px-4 py-2 bg-neutral-900 hover:bg-neutral-800 border border-gray-500 rounded-md cursor-pointer">
-              Contact Me
-            </button> */}
+
             <a
               href="#contact"
               className="text-white font-bold text-lg px-4 py-2 bg-neutral-900 hover:bg-neutral-800 border border-gray-500 rounded-md cursor-pointer"
